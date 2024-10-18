@@ -1,9 +1,11 @@
 # Student-Registration-Forms
 <h3>This is a Python full stack project was developed in Django Framework.
 This project include the following tasks:</h3>
-<H5>1. Registration of students<br>
-2. CRUD operations were performed on the models [StudentRegister, StudentContact]<br>
-3. Displaying the registered student list<br></H5>
+<ol>
+<li>Registration of students</li>
+<li>CRUD operations were performed on the models [StudentRegister, StudentContact]</li>
+<li>Displaying the registered student list</li>
+</ol>
 
 <h3>The StudentRegister model will to store the following details:</h3>
 <ul>
